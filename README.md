@@ -1,50 +1,22 @@
-# Hi 👋, I'm Himanshu Handa
+# # 💫 About Me: 
 
-### Passionate Web developer and Software Engineer
+💫 I'm currently working on **A voice-controlled AI assistant inspired by Tony Stark's J.A.R.V.I.S. **<br>💫 I'm currently learning Full Stack Development<br>💫 I'm looking to collaborate on VasHexad<br>💫 Ask me about Python, Linux System Permissions, Linux File Structure<br>📫 How to reach me https://www.linkedin.com/in/himanshuhanda-tech/<br>💫 Know about my experiences https://himanshu-handaenthusiast.lovable.app<br><br> 
 
-- 🔭 I'm currently working on **A voice-controlled AI assistant inspired by Tony Stark's J.A.R.V.I.S.    **
+# ## 💫 Socials: 
 
-- 🌱 I'm currently learning **Full Stack Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg? logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-handa-tech) 
 
-- 👯 I'm looking to collaborate on **VasHexad**
+# # 💻 Tech Stack: 
 
-- 💬 Ask me about **Python, Linux System Permissions, Linux File Structure**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-thebadge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5] (https://img.shields.io/badge/html5-%23E34F26.svg?style=for-thebadge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-thebadge&logo=python&logoColor=ffdd54) 
 
-- 📫 How to reach me **https://www.linkedin.com/in/himanshu-handa-tech/**
+# 📊 GitHub Stats: ![](https://github-readme-stats.shion.dev/api? username=Himanshu-0FFicial&theme=gruvbox_light&hide_border=false&include_all _commits=true&count_private=false)<br/> ![](https://streak-stats.demolab.com/? user=Himanshu-0FFicial&theme=gruvbox_light&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/? username=Himanshu-0FFicial&theme=gruvbox_light&hide_border=false&include_all _commits=true&count_private=false&layout=compact) 
 
-- 📄 Know about my experiences **[https://himanshu-handa-enthusiast.lovable.app](https://himanshu-handa-enthusiast.lovable.app)**
+# ## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/? 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Himanshu-0FFicial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Himanshu-0FFicial" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himanshu-handa-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-handa-tech" height="30" width="40" /></a>
-<a href="https://codechef.com/users/himanshu_handa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="himanshu_handa" height="30" width="40" /></a>
-<a href="https://leetcode.com/himanshu_handa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshu_handa" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hopepoehcua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hopepoehcua" height="30" width="40" /></a>
-</p>
+username=Himanshu-0FFicial&theme=radical&no-frame=false&no-bg=true&marginw=4) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+# ### ✍️� Random Dev Quote 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshu-0FFicial&show_icons=true&locale=en&layout=compact" alt="Himanshu-0FFicial" /></p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Himanshu-0FFicial&show_icons=true&locale=en" alt="Himanshu-0FFicial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-0FFicial&" alt="Himanshu-0FFicial" /></p>
-
-
-
-<!--
-**Himanshu-0FFicial/Himanshu-0FFicial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

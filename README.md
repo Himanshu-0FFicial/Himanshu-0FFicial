@@ -1,5 +1,7 @@
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hello There 👋, I'm Himanshu Handa</h1>
 <h3 align="center">Passionate Software Developer and Full Stack Learner</h3>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <br>
 🔭 I'm currently working on **A voice-controlled AI assistant inspired by Tony Stark's J.A.R.V.I.S. **<br>🌱 I'm currently learning Full Stack Development<br>🤝 I'm looking to collaborate on VasHexad<br>💬 Ask me about Python, Linux System Permissions, Linux File Structure<br>📫 How to reach me https://www.linkedin.com/in/himanshu-handa-tech/<br>📄 Know about my experiences https://himanshu-handa-enthusiast.lovable.app<br><br>
 
